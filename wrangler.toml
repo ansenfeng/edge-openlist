@@ -18,7 +18,7 @@ command = "npm run build:web"
 [[d1_databases]]
 binding = "DB"
 database_name = "openlist"
-database_id = "06e045f0-d834-44b6-ad7d-197ffd3932fb"
+database_id = "6c8d7447-062a-4fba-a1e4-6bc56c7a3860"
 
 [[kv_namespaces]]
 binding = "KV"
